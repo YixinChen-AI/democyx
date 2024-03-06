@@ -1,6 +1,6 @@
 {
   "name": "democyx",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YixinChen-AI/democyx"
+    "url": "https://github.com/YixinChen-AI/democyx.git"
   },
   "keywords": [],
   "author": "",
